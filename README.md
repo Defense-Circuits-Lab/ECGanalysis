@@ -1,9 +1,8 @@
-# Heart-rate-analyses
+# Cardiac-Analyses
+Toolbox to preprocess ECG and extract cardiac readouts
 
-Functions related to the preprocessing and processing of heart rate-related readouts.
+## Process_ECG
+*GUI to extract heart beats from raw ECGs (from different file types and system: Plexon, TDT, csv, etc)*
 
-ECG_Process - GUI to process ECG to extract heart rate.
-Consists in three main steps: 
- - ECG preprocessing: offset removal and bandpass filtering if needed
- - Automated beat detection
- - Manual verification in the GUI 
+
+[Watch the video](https://github.com/user-attachments/assets/3b8b9234-69a1-4c3f-a9db-69641c16b26d)
